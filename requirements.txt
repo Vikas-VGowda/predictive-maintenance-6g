@@ -4,4 +4,8 @@ numpy
 plotly
 scikit-learn
 joblib
+matplotlib
+seaborn
+openpyxl
+
 
